@@ -1,4 +1,4 @@
-# Pneumonia Detection from Chest X-Rays 🩻
+# Pneumonia Detection from Chest X-Rays 
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![TensorFlow](https://img.shields.io/badge/Framework-TensorFlow%20%7C%20Keras-orange)
